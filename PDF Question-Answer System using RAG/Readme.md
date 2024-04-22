@@ -1,4 +1,4 @@
-# PDF Question-Answer System using RAG
+# PDF Chatbot based on RAG using Llama 2
 
 Chat with your PDF and receive answers to your questions related to the content in the PDF using this Retrieval Augmented Generation (RAG) application
 
