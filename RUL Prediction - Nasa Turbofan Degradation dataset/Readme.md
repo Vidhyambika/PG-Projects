@@ -1,6 +1,10 @@
 # NASA EDA & RUL Prediction
 
 This repository contains jupyter notebooks that explores and predicts the Remaining Useful Life (RUL) of Turbofan engine using NASA's dataset. The project focuses on exploratory data analysis (EDA) and implementing machine learning models to predict RUL.
+<div align="center">
+  ![Turbofan-operation-lbp](https://github.com/user-attachments/assets/3e6a7ab9-f73e-4606-a733-ee436a88afda) 
+</div>
+
 
 ## Table of Contents
 
