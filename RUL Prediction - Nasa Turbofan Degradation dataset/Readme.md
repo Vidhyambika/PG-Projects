@@ -20,7 +20,8 @@ This repository contains jupyter notebooks that explores and predicts the Remain
 
 Predicting the Remaining Useful Life (RUL) of machinery is critical in predictive maintenance, as aircraft components are susceptible to degradation, which directly affects their reliability and performance. This project utilizes NASA's dataset to perform EDA and build machine learning models for RUL prediction. The project is implemented in a Kaggle notebook and demonstrates the steps involved in data inspection and pre-processing, exploratory data analysis (including visualization), feature engineering, model building, training and testing (regression/classification), and evaluation.
 
-Kaggle notebooks links: 1. https://www.kaggle.com/code/vidhyambikasr/nasa-eda-rul-prediction (solved as a regression problem)
+Kaggle notebooks links: 
+                        1. https://www.kaggle.com/code/vidhyambikasr/nasa-eda-rul-prediction (solved as a regression problem)
 
                         2. https://www.kaggle.com/code/vidhyambikasr/nasa-predictive-maintenance-rul (classification)
                         
