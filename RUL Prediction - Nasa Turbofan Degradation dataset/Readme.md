@@ -6,7 +6,9 @@ This repository contains jupyter notebooks that explores and predicts the Remain
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
+- [Data Preprocessing & Data Inspection](#data-preprocessing-and-data-inspection)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Feature Engineering](#feature-engineering)
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
 - [Conclusion](#conclusion)
@@ -27,7 +29,7 @@ The dataset used in this project is provided by NASA and is publicly available o
 
 - **Link to Dataset:** [NASA Turbofan Engine Degradation Simulation Data Set](https://www.kaggle.com/datasets/surajbhatt/nasa-cmaps)
 
-## Data Preprocessing & Data Inspection
+## Data Preprocessing and Data Inspection
 
 The data preprocessing and inspection step involves:
 
