@@ -2,6 +2,8 @@
 
 This repository contains an exploratory data analysis (EDA) of the Black Friday sales dataset. The notebook aims to uncover insights and patterns in the data, providing a comprehensive understanding of the purchasing behavior during Black Friday.
 
+![black-friday-4488821_1280](https://github.com/user-attachments/assets/0e3bbd01-bb3e-4600-9636-bd5a5e57c512)
+
 ## Dataset
 
 The dataset used in this analysis is sourced from Kaggle and contains information about various purchases made during Black Friday, including user demographics, product categories, and purchase amounts.
