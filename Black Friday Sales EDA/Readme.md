@@ -29,3 +29,18 @@ The notebook includes the following analyses:
 - Matplotlib
 - Seaborn
 - Plotly
+
+## Results and Insights
+Some key insights derived from the analysis include:
+
+- Demographic trends such as age group, purchase, city category and gender distribution among purchasers.
+- Purchase patterns based on age groups.
+- City, marital status and age group distribution with respect to gender.
+- Spending patterns based on marital status and occupation.
+- Customers no of years stay in their respective cities.
+- Correlations between various demographic factors and purchase amounts.
+- Product category purchase patterns with respect to city category
+
+## Acknowledgements
+The dataset is sourced from Kaggle: https://www.kaggle.com/datasets/pranavuikey/black-friday-sales-eda
+If you like this work please upvote this notebook in kaggle: https://www.kaggle.com/code/vidhyambikasr/black-friday-sales-eda
