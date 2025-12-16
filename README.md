@@ -39,7 +39,7 @@
 13. [Vrinda Store Analysis & Visualization of insights](https://github.com/Vidhyambika/PG-Projects/tree/main/Vrinda%20Store%20Analysis)
 14. [Credit card fraud detection - single layer nn](https://github.com/Vidhyambika/PG-Projects/tree/main/credit%20card%20fraud%20detection%20-%20single%20layer%20nn)
 
-
+Note: Find more projects in learning resources & other projects repos.
 
 
 ## 🧑‍💻 Author  
