@@ -38,7 +38,7 @@
 12. [Song/Music Genre Classification](https://github.com/Vidhyambika/PG-Projects/tree/main/Song%20or%20Music%20Genre%20Classification)
 13. [Vrinda Store Analysis & Visualization of insights](https://github.com/Vidhyambika/PG-Projects/tree/main/Vrinda%20Store%20Analysis)
 14. [Credit card fraud detection - single layer nn](https://github.com/Vidhyambika/PG-Projects/tree/main/credit%20card%20fraud%20detection%20-%20single%20layer%20nn)
-15. [All Dashboards and Reports Made in Power BI](https://github.com/Vidhyambika/PG-Projects/tree/main/Dashboards%20%26%20Reports)
+15. [5 Dashboards and Reports Made in Power BI](https://github.com/Vidhyambika/PG-Projects/tree/main/Dashboards%20%26%20Reports)
 
 **Note:** Find more projects in learning resources & other projects repos.
 
